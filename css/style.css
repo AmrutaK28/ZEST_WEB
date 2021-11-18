@@ -53,6 +53,21 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   background-color: rgb(128, 125, 125);
 }
 
+.headLine{
+  width: 25%; 
+  height: 8px; 
+  background-color: #52ab98; 
+  margin-left: 210px; 
+  margin-top: -15px;
+}
+
+@media screen and (max-width: 500px){
+  .headLine{
+    width: 25%;
+    margin-left: 170px;
+  }
+}
+
 .input[type=submit]:hover{
   background-color: black;
 }
