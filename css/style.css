@@ -49,6 +49,13 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
+.iconCircle:hover{
+  background-color: rgb(128, 125, 125);
+}
+
+.input[type=submit]:hover{
+  background-color: black;
+}
 
 body {
   margin: 0;
