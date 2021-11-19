@@ -54,18 +54,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 .headLine{
-  width: 25%; 
+  width: 30%; 
   height: 8px; 
   background-color: #52ab98; 
-  margin-left: 210px; 
+  margin-left: 36%; 
   margin-top: -15px;
-}
-
-@media screen and (max-width: 500px){
-  .headLine{
-    width: 25%;
-    margin-left: 170px;
-  }
 }
 
 .input[type=submit]:hover{
